@@ -1,0 +1,10 @@
+{
+  "description": "Explore a cinematic Victorian detective room to investigate a theft by examining evidence, analyzing suspects, and making a final deduction with AI assistance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
